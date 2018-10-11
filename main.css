@@ -1,0 +1,10 @@
+/* This is my CSS file for my second HTML */
+*{
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
